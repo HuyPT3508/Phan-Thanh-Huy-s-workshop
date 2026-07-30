@@ -15,3 +15,19 @@ Dưới đây là toàn bộ tài liệu tham khảo, mã nguồn và video báo
 ### 2. Video Báo cáo Demo
 - **Link Video:** [Xem trên Google Drive](https://drive.google.com/file/d/1BRA68CK4h_CU5k95bLJXEMu5BOlVSGKD/view?usp=sharing)
 - Nội dung video: Demo các tính năng cốt lõi (Đặt vé, Đăng ký OTP, Gửi email hoàn tiền).
+
+### 3. Website Workshop
+Website Workshop được xây dựng trong chương trình thực tập.
+- **Workshop Website (Client):** [Chèn link Client tại đây]
+- **Workshop Website (Admin):** [Chèn link Admin tại đây]
+
+### 4. Nguồn tài liệu tham khảo khác
+Trong quá trình thực hiện dự án và hoàn thành chương trình thực tập, nhóm thường xuyên tham khảo các nguồn tài liệu chính thức sau:
+- AWS Skill Builder
+- AWS Documentation
+- AWS Well-Architected Framework
+- Amazon DynamoDB Documentation
+- Amazon EC2 Documentation
+- Amazon RDS Documentation
+- Amazon S3 Documentation
+- Amazon SES Documentation
