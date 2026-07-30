@@ -10,7 +10,7 @@ pre: " <b> 4.1. </b> "
 
 ### Mục Đích Của Sự Kiện
 
-![First Cloud Journey Overview](e3b0c0c7524cd3128a5d12.jpg)
+![First Cloud Journey Overview](/images/4-EventParticipated/4.1-Event1/e3b0c0c7524cd3128a5d12.jpg)
 
 * Gặp gỡ ban tổ chức, các Mentors và các thành viên trong chương trình First Cloud AI Journey.
 * Định hướng lộ trình học tập, phát triển nghề nghiệp trong các mảng Cloud, DevOps, Data Analytics và AI.
@@ -18,7 +18,7 @@ pre: " <b> 4.1. </b> "
 
 ### Danh Sách Diễn Giả
 
-![Danh Sách Diễn Giả](c73e7748e5c3649d3dd211.jpg)
+![Danh Sách Diễn Giả](/images/4-EventParticipated/4.1-Event1/c73e7748e5c3649d3dd211.jpg)
 
 * **Anh Danh Hoàng Hiếu Nghị** (AI Engineer – AWS Community Builder – AWS Student Builder Group Leader)
 * **Anh Hoàng Trọng** (DevOps Engineer @ Endava Vietnam)
@@ -35,8 +35,8 @@ pre: " <b> 4.1. </b> "
 
 #### 2. Kỹ sư DevOps thực tế làm những gì? (Anh Hoàng Trọng)
 
-![DevOps Tool Landscape](39a6a3d33158b006e9499.jpg)
-![DevOps Tool Landscape Close-up](af9e72e8e063613d387210.jpg)
+![DevOps Tool Landscape](/images/4-EventParticipated/4.1-Event1/39a6a3d33158b006e9499.jpg)
+![DevOps Tool Landscape Close-up](/images/4-EventParticipated/4.1-Event1/af9e72e8e063613d387210.jpg)
 
 * Làm rõ định kiến về DevOps (không chỉ đơn giản là viết CI/CD pipeline, chạy Docker/Kubernetes hay fix bug hệ thống lúc nửa đêm).
 * Chia sẻ lộ trình học DevOps cho người mới: Tập trung vào **Fundamentals** (Linux, Networking cơ bản, lập trình Python/Golang, Git và Container) thay vì chạy theo công cụ.
@@ -44,7 +44,7 @@ pre: " <b> 4.1. </b> "
 
 #### 3. Câu chuyện thực tế và Văn hóa doanh nghiệp MNC (Anh Đạt Phạm & Anh Cường Nguyễn)
 
-![Data Analytics in MNCs](09d460a4f22f73712a3e13.jpg)
+![Data Analytics in MNCs](/images/4-EventParticipated/4.1-Event1/09d460a4f22f73712a3e13.jpg)
 
 * Phân biệt công việc của Data Analytics Engineer tại các lĩnh vực khác nhau (Kamereo - Báo cáo & Dashboard vận hành; Colgate-Palmolive - IoT & Chuyển đổi số nhà máy).
 * Các kỹ năng thiết yếu: Tư duy phản biện (Critical thinking), Giao tiếp (Communication), Kể chuyện với dữ liệu (Data storytelling) và Giải quyết vấn đề (Problem solving).
