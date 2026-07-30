@@ -20,9 +20,9 @@ Hãy thực hiện các bước dưới đây **theo đúng thứ tự** để d
 
 **Bước 3:** Xác nhận việc terminate.
 
-![Terminate EC2](/images/5-Workshop/5.5-Cleanup/5.6.1.jpg)
+![Terminate EC2](/images/5-Workshop/5.6-Cleanup/5.6.1.jpg)
 
-![Terminate EC2](/images/5-Workshop/5.5-Cleanup/5.6.2.jpg)
+![Terminate EC2](/images/5-Workshop/5.6-Cleanup/5.6.2.jpg)
 
 ---
 
@@ -34,13 +34,13 @@ Hãy thực hiện các bước dưới đây **theo đúng thứ tự** để d
 
 **Bước 3:** Sau khi bucket đã trống, chọn lại bucket → nhấn **Delete**. Gõ tên bucket để xác nhận.
 
-![Terminate S3](/images/5-Workshop/5.5-Cleanup/5.6.3.jpg)
+![Terminate S3](/images/5-Workshop/5.6-Cleanup/5.6.3.jpg)
 
-![Terminate S3](/images/5-Workshop/5.5-Cleanup/5.6.4.jpg)
+![Terminate S3](/images/5-Workshop/5.6-Cleanup/5.6.4.jpg)
 
-![Terminate S3](/images/5-Workshop/5.5-Cleanup/5.6.5.jpg)
+![Terminate S3](/images/5-Workshop/5.6-Cleanup/5.6.5.jpg)
 
-![Terminate S3](/images/5-Workshop/5.5-Cleanup/5.6.6.jpg)
+![Terminate S3](/images/5-Workshop/5.6-Cleanup/5.6.6.jpg)
 
 ---
 
@@ -59,9 +59,9 @@ Hãy thực hiện các bước dưới đây **theo đúng thứ tự** để d
 
 > **Lưu ý:** Việc xóa database có thể mất vài phút để hoàn tất.
 
-![Terminate RDS Database](/images/5-Workshop/5.5-Cleanup/5.6.7.jpg)
+![Terminate RDS Database](/images/5-Workshop/5.6-Cleanup/5.6.7.jpg)
 
-![Terminate RDS Database](/images/5-Workshop/5.5-Cleanup/5.6.8.jpg)
+![Terminate RDS Database](/images/5-Workshop/5.6-Cleanup/5.6.8.jpg)
 
 ---
 
@@ -73,9 +73,9 @@ Hãy thực hiện các bước dưới đây **theo đúng thứ tự** để d
 
 **Bước 3:** Xác nhận bằng cách gõ `delete`.
 
-![Terminate DynamoDB Table](/images/5-Workshop/5.5-Cleanup/5.6.9.jpg)
+![Terminate DynamoDB Table](/images/5-Workshop/5.6-Cleanup/5.6.9.jpg)
 
-![Terminate DynamoDB Table](/images/5-Workshop/5.5-Cleanup/5.6.10.jpg)
+![Terminate DynamoDB Table](/images/5-Workshop/5.6-Cleanup/5.6.10.jpg)
 
 ---
 
@@ -87,9 +87,9 @@ Hãy thực hiện các bước dưới đây **theo đúng thứ tự** để d
 
 **Bước 3:** Xác nhận việc xóa.
 
-![Terminate SES](/images/5-Workshop/5.5-Cleanup/5.6.11.jpg)
+![Terminate SES](/images/5-Workshop/5.6-Cleanup/5.6.11.jpg)
 
-![Terminate SES](/images/5-Workshop/5.5-Cleanup/5.6.12.jpg)
+![Terminate SES](/images/5-Workshop/5.6-Cleanup/5.6.12.jpg)
 
 ---
 
@@ -103,6 +103,6 @@ Hãy thực hiện các bước dưới đây **theo đúng thứ tự** để d
 
 **Bước 4:** Quay lại và nhấn **Delete** user. Xác nhận bằng cách gõ tên username.
 
-![Terminate IAM](/images/5-Workshop/5.5-Cleanup/5.6.13.jpg)
+![Terminate IAM](/images/5-Workshop/5.6-Cleanup/5.6.13.jpg)
 
-![Terminate IAM](/images/5-Workshop/5.5-Cleanup/5.6.14.jpg)
+![Terminate IAM](/images/5-Workshop/5.6-Cleanup/5.6.14.jpg)
