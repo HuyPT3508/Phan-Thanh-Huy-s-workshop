@@ -1,17 +1,17 @@
----
-title: "T�i li?u tham kh?o"
+﻿---
+title: "Tài liệu tham khảo"
 date: 2026-07-29
 weight: 8
 chapter: false
 pre: " <b> 8. </b> "
 ---
 
-Du?i d�y l� to�n b? t�i li?u tham kh?o, m� ngu?n v� video b�o c�o cho d? �n HCMUT Cinema:
+Dưới đây là toàn bộ tài liệu tham khảo, mã nguồn và video báo cáo cho đồ án HCMUT Cinema:
 
 ### 1. Source Code (GitHub)
-- **Kho luu tr?:** [AWS_Final](https://github.com/HuyPT3508/AWS_Final.git)
-- Bao g?m to�n b? m� ngu?n Frontend (Web tinh S3) v� Backend (Node.js EC2), c�ng v?i Script kh?i t?o Database PostgreSQL.
+- **Kho lưu trữ:** [AWS_Final](https://github.com/HuyPT3508/AWS_Final.git)
+- Bao gồm toàn bộ mã nguồn Frontend (Web tĩnh S3) và Backend (Node.js EC2), cùng với Script khởi tạo Database PostgreSQL.
 
-### 2. Video B�o c�o Demo
-- **Link Video:** [Xem tr�n Google Drive](https://drive.google.com/file/d/1BRA68CK4h_CU5k95bLJXEMu5BOlVSGKD/view?usp=sharing)
-- N?i dung video: Demo c�c t�nh nang c?t l�i (�?t v�, �ang k� OTP, G?i email ho�n ti?n).
+### 2. Video Báo cáo Demo
+- **Link Video:** [Xem trên Google Drive](https://drive.google.com/file/d/1BRA68CK4h_CU5k95bLJXEMu5BOlVSGKD/view?usp=sharing)
+- Nội dung video: Demo các tính năng cốt lõi (Đặt vé, Đăng ký OTP, Gửi email hoàn tiền).
