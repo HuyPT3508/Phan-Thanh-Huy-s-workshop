@@ -18,8 +18,8 @@ Below are all the references, source code, and demo video for the HCMUT Cinema p
 
 ### 3. Website Workshop
 The workshop website built during the internship program.
-- **Workshop Website (Client):** [Insert Client Link here]
-- **Workshop Website (Admin):** [Insert Admin Link here]
+- **Workshop Website (Client):** [Access Client Website](http://hcmut-cinema-frontend-huypt.s3-website-ap-southeast-1.amazonaws.com/#home)
+- **Workshop Website (Admin):** [Access Admin Website](http://hcmut-cinema-frontend-huypt.s3-website-ap-southeast-1.amazonaws.com/admin.html#admin)
 
 ### 4. Official Documentation
 During the implementation of the project and the completion of the internship program, the team frequently referred to the following official resources:

@@ -18,8 +18,8 @@ Dưới đây là toàn bộ tài liệu tham khảo, mã nguồn và video báo
 
 ### 3. Website Workshop
 Website Workshop được xây dựng trong chương trình thực tập.
-- **Workshop Website (Client):** [Chèn link Client tại đây]
-- **Workshop Website (Admin):** [Chèn link Admin tại đây]
+- **Workshop Website (Client):** [Truy cập Website Client](http://hcmut-cinema-frontend-huypt.s3-website-ap-southeast-1.amazonaws.com/#home)
+- **Workshop Website (Admin):** [Truy cập Website Admin](http://hcmut-cinema-frontend-huypt.s3-website-ap-southeast-1.amazonaws.com/admin.html#admin)
 
 ### 4. Nguồn tài liệu tham khảo khác
 Trong quá trình thực hiện dự án và hoàn thành chương trình thực tập, nhóm thường xuyên tham khảo các nguồn tài liệu chính thức sau:
