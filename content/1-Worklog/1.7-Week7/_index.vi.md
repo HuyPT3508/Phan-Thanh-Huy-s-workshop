@@ -1,5 +1,5 @@
 ---
-title: "Tuần 7: Deploy lên AWS (Giai đoạn 1)"
+title: "Tuần 7: Deploy lên AWS"
 date: 2024-01-01
 weight: 7
 chapter: false
