@@ -115,22 +115,28 @@ Luồng hoạt động tổng quát của hệ thống được mô tả như sa
 
 ```text
 Customer Browser
-        │
-        ▼
+        |
+        v
  Amazon S3 Static Website
-        │
-        ▼
+        |
+        v
  Amazon EC2 (Node.js REST API)
-        │
- ┌──────┼───────────────┐
- ▼      ▼               ▼
+        |
+ +------┼---------------+
+ v      v               v
 Amazon RDS      DynamoDB      Amazon SES
 (PostgreSQL)   Seat Locks     OTP & E-Ticket
 ```
 
 ### Các AWS Services sử dụng
 
-<table><thead><tr><th>AWS Service</th><th>Mục đích sử dụng</th></tr></thead><tbody><tr><td>Amazon S3</td><td>Lưu trữ và phân phối website frontend cho khách hàng và quản trị viên.</td></tr><tr><td>Amazon EC2</td><td>Chạy ứng dụng backend Node.js và cung cấp RESTful APIs.</td></tr><tr><td>Amazon RDS PostgreSQL</td><td>Lưu trữ dữ liệu giao dịch lâu dài như người dùng, phim, rạp, lịch chiếu và vé.</td></tr><tr><td>Amazon DynamoDB</td><td>Quản lý khóa ghế tạm thời bằng ConditionExpression và TTL để ngăn chặn Race Condition.</td></tr><tr><td>Amazon SES</td><td>Tự động gửi email OTP xác thực và vé điện tử sau khi thanh toán thành công.</td></tr></tbody></table>
+| AWS Service | Mục đích sử dụng |
+|---|---|
+| Amazon S3 | Lưu trữ và phân phối website frontend cho khách hàng và quản trị viên. |
+| Amazon EC2 | Chạy ứng dụng backend Node.js và cung cấp RESTful APIs. |
+| Amazon RDS PostgreSQL | Lưu trữ dữ liệu giao dịch lâu dài như người dùng, phim, rạp, lịch chiếu và vé. |
+| Amazon DynamoDB | Quản lý khóa ghế tạm thời bằng ConditionExpression và TTL để ngăn chặn Race Condition. |
+| Amazon SES | Tự động gửi email OTP xác thực và vé điện tử sau khi thanh toán thành công. |
 
 ### Thiết kế các thành phần
 
@@ -215,7 +221,16 @@ Công cụ phát triển
 
 ## 5. Kế hoạch thực hiện và các mốc quan trọng
 
-<table><thead><tr><th>Giai đoạn</th><th>Nội dung thực hiện</th></tr></thead><tbody><tr><td>Week 1</td><td>Nghiên cứu AWS services và yêu cầu hệ thống</td></tr><tr><td>Week 2</td><td>Thiết kế kiến trúc và cơ sở dữ liệu</td></tr><tr><td>Week 3</td><td>Triển khai backend APIs</td></tr><tr><td>Week 4</td><td>Phát triển giao diện frontend</td></tr><tr><td>Week 5</td><td>Tích hợp các AWS services</td></tr><tr><td>Week 6</td><td>Kiểm thử và sửa lỗi</td></tr><tr><td>Week 7</td><td>Triển khai và tối ưu hệ thống</td></tr><tr><td>Week 8</td><td>Hoàn thiện tài liệu và chuẩn bị trình bày</td></tr></tbody></table>
+| Giai đoạn | Nội dung thực hiện |
+|---|---|
+| Week 1 | Nghiên cứu AWS services và yêu cầu hệ thống |
+| Week 2 | Thiết kế kiến trúc và cơ sở dữ liệu |
+| Week 3 | Triển khai backend APIs |
+| Week 4 | Phát triển giao diện frontend |
+| Week 5 | Tích hợp các AWS services |
+| Week 6 | Kiểm thử và sửa lỗi |
+| Week 7 | Triển khai và tối ưu hệ thống |
+| Week 8 | Hoàn thiện tài liệu và chuẩn bị trình bày |
 
 ---
 

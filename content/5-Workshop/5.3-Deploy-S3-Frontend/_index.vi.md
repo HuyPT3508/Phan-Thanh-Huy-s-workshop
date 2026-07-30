@@ -57,4 +57,4 @@ Dưới đây là sơ đồ luồng hoạt động của Frontend tĩnh trên S3
 ![Bước 9](/images/5-Workshop/5.3-Deploy-S3-Frontend/5.3.9.png)
 
 ---
-> **💡 Mẹo:** Bất cứ khi nào bạn chỉnh sửa file Code (ví dụ: đổi IP của API trong file `app.js`), bạn chỉ cần Upload đè file đó lên mục Objects của S3 Bucket này là giao diện sẽ lập tức được cập nhật!
+> **Mẹo:** Bất cứ khi nào bạn chỉnh sửa file Code (ví dụ: đổi IP của API trong file `app.js`), bạn chỉ cần Upload đè file đó lên mục Objects của S3 Bucket này là giao diện sẽ lập tức được cập nhật!

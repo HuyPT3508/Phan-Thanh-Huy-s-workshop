@@ -113,15 +113,15 @@ The overall workflow of the system is illustrated below.
 
 ```text
 Customer Browser
-        │
-        ▼
+        |
+        v
  Amazon S3 Static Website
-        │
-        ▼
+        |
+        v
  Amazon EC2 (Node.js REST API)
-        │
- ┌──────┼───────────────┐
- ▼      ▼               ▼
+        |
+ +------┼---------------+
+ v      v               v
 Amazon RDS      DynamoDB      Amazon SES
 (PostgreSQL)   Seat Locks     OTP & E-Ticket
 ```

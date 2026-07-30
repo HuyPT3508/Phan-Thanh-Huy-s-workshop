@@ -57,4 +57,4 @@ Below is the flow diagram for the static Frontend hosted on S3:
 ![Step 9](/images/5-Workshop/5.3-Deploy-S3-Frontend/5.3.9.png)
 
 ---
-> **💡 Tip:** Whenever you update the source code (e.g., changing the API IP in `app.js`), simply upload the updated file to the S3 Bucket Objects tab and the website will be updated instantly!
+> **Tip:** Whenever you update the source code (e.g., changing the API IP in `app.js`), simply upload the updated file to the S3 Bucket Objects tab and the website will be updated instantly!
