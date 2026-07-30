@@ -1,4 +1,4 @@
-baseURL = "https://HuyPT3508.github.io/Phan-Thanh-Huy-s-workshop/"
+baseURL = "/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
