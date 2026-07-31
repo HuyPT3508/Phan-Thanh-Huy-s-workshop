@@ -8,6 +8,8 @@ pre: " <b> 4.1. </b> "
 
 # Summary Report: "First Cloud AI Journey Kickoff & Meetup"
 
+![Event 1 Cover](/images/4-EventParticipated/4.1-Event1/5.5.A.jpg)
+
 ### Event Objectives
 
 ![First Cloud Journey Overview](/images/4-EventParticipated/4.1-Event1/e3b0c0c7524cd3128a5d12.jpg)
