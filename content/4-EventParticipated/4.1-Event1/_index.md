@@ -6,118 +6,62 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-
-# Summary Report: “GenAI-powered App-DB Modernization workshop”
+# Summary Report: "First Cloud AI Journey Kickoff & Meetup"
 
 ### Event Objectives
 
-- Share best practices in modern application design
-- Introduce Domain-Driven Design (DDD) and event-driven architecture
-- Provide guidance on selecting the right compute services
-- Present AI tools to support the development lifecycle
+![First Cloud Journey Overview](/images/4-EventParticipated/4.1-Event1/e3b0c0c7524cd3128a5d12.jpg)
 
-### Speakers
+* Meeting the organizing committee, Mentors, and members of the First Cloud AI Journey program.
+* Orienting the learning roadmap and career development in Cloud, DevOps, Data Analytics, and AI.
+* Sharing practical experiences from former FCAJ members and engineers working at AWS and multinational tech companies.
 
-- **Jignesh Shah** – Director, Open Source Databases
-- **Erica Liu** – Sr. GTM Specialist, AppMod
-- **Fabrianne Effendi** – Assc. Specialist SA, Serverless Amazon Web Services
+### Speakers List
+
+![Speakers List](/images/4-EventParticipated/4.1-Event1/c73e7748e5c3649d3dd211.jpg)
+
+* **Mr. Danh Hoang Hieu Nghia** (AI Engineer – AWS Community Builder – AWS Student Builder Group Leader)
+* **Mr. Hoang Trong** (DevOps Engineer @ Endava Vietnam)
+* **Mr. Dat Pham** (Data Analytics Engineer @ AWS)
+* **Mr. Cuong Nguyen** (Process Engineer @ AWS)
+* **Mr. Kien & Mr. Tho** (Technical & Community Share)
 
 ### Key Highlights
 
-#### Identifying the drawbacks of legacy application architecture
+#### 1. Community development journey and career opportunities (Mr. Danh Hoang Hieu Nghia)
+* Sharing the journey of developing from a First Cloud AI Journey member to an AWS Partner.
+* Introducing AWS programs supporting students and young engineers such as **AWS Student Builder Group** (formerly AWS Cloud Clubs) and **AWS Community Builder Program**.
+* Encouraging students to continuously learn and connect with the community, emphasizing that "getting a job is just the beginning".
 
-- Long product release cycles → Lost revenue/missed opportunities  
-- Inefficient operations → Reduced productivity, higher costs  
-- Non-compliance with security regulations → Security breaches, loss of reputation  
+#### 2. What does a practical DevOps Engineer do? (Mr. Hoang Trong)
 
-#### Transitioning to modern application architecture – Microservices
+![DevOps Tool Landscape](/images/4-EventParticipated/4.1-Event1/39a6a3d33158b006e9499.jpg)
+![DevOps Tool Landscape Close-up](/images/4-EventParticipated/4.1-Event1/af9e72e8e063613d387210.jpg)
 
-Migrating to a modular system — each function is an **independent service** communicating via **events**, built on three core pillars:
+* Clarifying the stereotype about DevOps (not just writing CI/CD pipelines, running Docker/Kubernetes, or fixing system bugs at midnight).
+* Sharing the learning path for beginners: Focus on **Fundamentals** (Linux, basic Networking, Python/Golang programming, Git, and Containers) instead of chasing tools.
+* Practical lesson: Copying command lines does not mean understanding the core; always ask "Why" before asking "How".
 
-- **Queue Management**: Handle asynchronous tasks  
-- **Caching Strategy**: Optimize performance  
-- **Message Handling**: Flexible inter-service communication  
+#### 3. Real-world stories and MNC Corporate Culture (Mr. Dat Pham & Mr. Cuong Nguyen)
 
-#### Domain-Driven Design (DDD)
+![Data Analytics in MNCs](/images/4-EventParticipated/4.1-Event1/09d460a4f22f73712a3e13.jpg)
 
-- **Four-step method**: Identify domain events → arrange timeline → identify actors → define bounded contexts  
-- **Bookstore case study**: Demonstrates real-world DDD application  
-- **Context mapping**: 7 patterns for integrating bounded contexts  
+* Differentiating the tasks of a Data Analytics Engineer in various fields (Kamereo - Operational Reports & Dashboards; Colgate-Palmolive - IoT & Factory Digital Transformation).
+* Essential skills: Critical thinking, Communication, Data storytelling, and Problem solving.
+* 5-stage career development model: Follower -> Learner -> Problem Solver -> System Thinker -> Super Star.
+* Sharing about multinational corporation (MNC) culture, especially the **No-Blame Post-Mortem** culture (When serious errors occur, engineers focus on finding the root cause to fix the system rather than blaming individuals).
 
-#### Event-Driven Architecture
+### What I Learned
+* **The importance of foundational knowledge**: Although technology and tools change constantly, fundamental knowledge (Linux, Networking, Logic) always helps engineers go far and sustainably.
+* **Systems thinking**: When approaching a technology problem, look at the big picture to optimize the system long-term instead of just solving immediate errors.
+* **No-Blame culture**: Learning a constructive mindset and supporting each other in teamwork. When facing technical incidents, focus on solving the technical root cause and improving the process rather than finding someone to blame.
+* **Proactive learning**: Need to shift the mindset from a passive executor (Follower) to a proactive learner (Learner) and a Problem Solver.
 
-- **3 integration patterns**: Publish/Subscribe, Point-to-point, Streaming  
-- **Benefits**: Loose coupling, scalability, resilience  
-- **Sync vs async comparison**: Understanding the trade-offs  
+### Application to Work
+* Actively deep dive into Linux and Networking while working with AWS Cloud.
+* Apply data analysis and critical thinking when solving technical problems during the internship.
+* Practice communication skills and how to present technical issues clearly when working in a team and reporting to Mentors.
+* Seek opportunities to join AWS communities to expand networking and learn experiences from seniors.
 
-#### Compute Evolution
-
-- **Shared Responsibility Model**: EC2 → ECS → Fargate → Lambda  
-- **Serverless benefits**: No server management, auto-scaling, pay-for-value  
-- **Functions vs Containers**: Criteria for appropriate choice  
-
-#### Amazon Q Developer
-
-- **SDLC automation**: From planning to maintenance  
-- **Code transformation**: Java upgrade, .NET modernization  
-- **AWS Transform agents**: VMware, Mainframe, .NET migration  
-
-### Key Takeaways
-
-#### Design Mindset
-
-- **Business-first approach**: Always start from the business domain, not the technology  
-- **Ubiquitous language**: Importance of a shared vocabulary between business and tech teams  
-- **Bounded contexts**: Identifying and managing complexity in large systems  
-
-#### Technical Architecture
-
-- **Event storming technique**: Practical method for modeling business processes  
-- Use **event-driven communication** instead of synchronous calls  
-- **Integration patterns**: When to use sync, async, pub/sub, streaming  
-- **Compute spectrum**: Criteria for choosing between VM, containers, and serverless  
-
-#### Modernization Strategy
-
-- **Phased approach**: No rushing — follow a clear roadmap  
-- **7Rs framework**: Multiple modernization paths depending on the application  
-- **ROI measurement**: Cost reduction + business agility  
-
-### Applying to Work
-
-- **Apply DDD** to current projects: Event storming sessions with business teams  
-- **Refactor microservices**: Use bounded contexts to define service boundaries  
-- **Implement event-driven patterns**: Replace some sync calls with async messaging  
-- **Adopt serverless**: Pilot AWS Lambda for suitable use cases  
-- **Try Amazon Q Developer**: Integrate into the dev workflow to boost productivity  
-
-### Event Experience
-
-Attending the **“GenAI-powered App-DB Modernization”** workshop was extremely valuable, giving me a comprehensive view of modernizing applications and databases using advanced methods and tools. Key experiences included:
-
-#### Learning from highly skilled speakers
-- Experts from AWS and major tech organizations shared **best practices** in modern application design.  
-- Through real-world case studies, I gained a deeper understanding of applying **DDD** and **Event-Driven Architecture** to large projects.  
-
-#### Hands-on technical exposure
-- Participating in **event storming** sessions helped me visualize how to **model business processes** into domain events.  
-- Learned how to **split microservices** and define **bounded contexts** to manage large-system complexity.  
-- Understood trade-offs between **synchronous and asynchronous communication** and integration patterns like **pub/sub, point-to-point, streaming**.  
-
-#### Leveraging modern tools
-- Explored **Amazon Q Developer**, an AI tool for SDLC support from planning to maintenance.  
-- Learned to **automate code transformation** and pilot serverless with **AWS Lambda** to improve productivity.  
-
-#### Networking and discussions
-- The workshop offered opportunities to exchange ideas with experts, peers, and business teams, enhancing the **ubiquitous language** between business and tech.  
-- Real-world examples reinforced the importance of the **business-first approach** rather than focusing solely on technology.  
-
-#### Lessons learned
-- Applying DDD and event-driven patterns reduces **coupling** while improving **scalability** and **resilience**.  
-- Modernization requires a **phased approach** with **ROI measurement**; rushing the process can be risky.  
-- AI tools like Amazon Q Developer can significantly **boost productivity** when integrated into the current workflow.  
-
-#### Some event photos
-*Add your event photos here*  
-
-> Overall, the event not only provided technical knowledge but also helped me reshape my thinking about application design, system modernization, and cross-team collaboration.
+### Experience during the event
+The first meetup brought me an extremely valuable and memorable experience. The open and friendly atmosphere at the AWS office along with the enthusiasm of the speakers greatly inspired me. The practical stories about work and corporate culture at multinational corporations helped me gain a more realistic view of my future career, while clearly defining the skills I need to prepare during this internship.
