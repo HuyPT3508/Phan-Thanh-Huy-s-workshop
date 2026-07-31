@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Backend Deployment (EC2 & SES)"
 date: 2026-07-28
 weight: 2
@@ -77,6 +77,8 @@ The Backend API system is now officially online on the Cloud!
 ---
 
 ## Part 2: Configuring Amazon SES (Simple Email Service)
+
+![SES Diagram](/images/5-Workshop/5.2-Deploy-EC2-SES/diagram_ses.png)
 
 Amazon SES was chosen for its ability to send large volumes of emails reliably, at extremely low cost, and its seamless integration with Node.js via the `aws-sdk` library.
 

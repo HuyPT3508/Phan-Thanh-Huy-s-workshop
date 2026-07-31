@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Triển khai Backend (EC2 & SES)"
 date: 2026-07-28
 weight: 2
@@ -77,6 +77,8 @@ Hệ thống Backend API bây giờ đã chính thức online trên Cloud!
 ---
 
 ## Phần 2: Cấu hình Amazon SES (Simple Email Service)
+
+![Sơ đồ SES](/images/5-Workshop/5.2-Deploy-EC2-SES/diagram_ses.png)
 
 Dịch vụ Amazon SES được lựa chọn nhờ khả năng gửi lượng lớn email một cách ổn định, chi phí siêu rẻ và khả năng tích hợp trực tiếp vào thư viện `aws-sdk` của Node.js cực kỳ mượt mà.
 
