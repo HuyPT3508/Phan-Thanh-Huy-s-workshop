@@ -20,9 +20,9 @@ Follow the steps below **in order** to clean up everything safely.
 
 **Step 3:** Confirm the termination.
 
-![Terminate EC2](/images/5-Workshop/5.5-Cleanup/5.6.1.jpg)
+![Terminate EC2](/images/5-Workshop/5.6-Cleanup/5.6.1.jpg)
 
-![Terminate EC2](/images/5-Workshop/5.5-Cleanup/5.6.2.jpg)
+![Terminate EC2](/images/5-Workshop/5.6-Cleanup/5.6.2.jpg)
 
 ---
 
@@ -34,13 +34,13 @@ Follow the steps below **in order** to clean up everything safely.
 
 **Step 3:** After the bucket is empty, select it again → click **Delete**. Type the bucket name to confirm.
 
-![Terminate S3](/images/5-Workshop/5.5-Cleanup/5.6.3.jpg)
+![Terminate S3](/images/5-Workshop/5.6-Cleanup/5.6.3.jpg)
 
-![Terminate S3](/images/5-Workshop/5.5-Cleanup/5.6.4.jpg)
+![Terminate S3](/images/5-Workshop/5.6-Cleanup/5.6.4.jpg)
 
-![Terminate S3](/images/5-Workshop/5.5-Cleanup/5.6.5.jpg)
+![Terminate S3](/images/5-Workshop/5.6-Cleanup/5.6.5.jpg)
 
-![Terminate S3](/images/5-Workshop/5.5-Cleanup/5.6.6.jpg)
+![Terminate S3](/images/5-Workshop/5.6-Cleanup/5.6.6.jpg)
 
 ---
 
@@ -59,9 +59,9 @@ Follow the steps below **in order** to clean up everything safely.
 
 > **Note:** It may take a few minutes for the database to be fully deleted.  
 
-![Terminate RDS Database](/images/5-Workshop/5.5-Cleanup/5.6.7.jpg)
+![Terminate RDS Database](/images/5-Workshop/5.6-Cleanup/5.6.7.jpg)
 
-![Terminate RDS Database](/images/5-Workshop/5.5-Cleanup/5.6.8.jpg)
+![Terminate RDS Database](/images/5-Workshop/5.6-Cleanup/5.6.8.jpg)
 
 ---
 
@@ -73,9 +73,9 @@ Follow the steps below **in order** to clean up everything safely.
 
 **Step 3:** Confirm the deletion by typing `delete`.
 
-![Terminate DynamoDB Table](/images/5-Workshop/5.5-Cleanup/5.6.9.jpg)
+![Terminate DynamoDB Table](/images/5-Workshop/5.6-Cleanup/5.6.9.jpg)
 
-![Terminate DynamoDB Table](/images/5-Workshop/5.5-Cleanup/5.6.10.jpg)
+![Terminate DynamoDB Table](/images/5-Workshop/5.6-Cleanup/5.6.10.jpg)
 
 ---
 
@@ -87,9 +87,9 @@ Follow the steps below **in order** to clean up everything safely.
 
 **Step 3:** Confirm the deletion.
 
-![Terminate SES](/images/5-Workshop/5.5-Cleanup/5.6.11.jpg)
+![Terminate SES](/images/5-Workshop/5.6-Cleanup/5.6.11.jpg)
 
-![Terminate SES](/images/5-Workshop/5.5-Cleanup/5.6.12.jpg)
+![Terminate SES](/images/5-Workshop/5.6-Cleanup/5.6.12.jpg)
 
 ---
 
@@ -103,9 +103,9 @@ Follow the steps below **in order** to clean up everything safely.
 
 **Step 4:** Go back and click **Delete** user. Confirm by typing the username.
 
-![Terminate IAM](/images/5-Workshop/5.5-Cleanup/5.6.13.jpg)
+![Terminate IAM](/images/5-Workshop/5.6-Cleanup/5.6.13.jpg)
 
-![Terminate IAM](/images/5-Workshop/5.5-Cleanup/5.6.14.jpg)
+![Terminate IAM](/images/5-Workshop/5.6-Cleanup/5.6.14.jpg)
 
 
 ---
