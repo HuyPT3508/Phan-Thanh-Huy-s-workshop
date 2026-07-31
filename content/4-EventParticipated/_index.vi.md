@@ -11,7 +11,7 @@ Trong quá trình thực tập, em đã tham gia các sự kiện nhằm nâng c
 ### [Event 1: First Cloud AI Journey Kickoff & Meetup](4.1-Event1/)
 &emsp;**Tên sự kiện:** First Cloud AI Journey Kickoff & Meetup
 
-&emsp;**Thời gian:** 09:00 ngày 13/06/2025
+&emsp;**Thời gian:** 09:00 ngày 13/06/2026
 
 &emsp;**Địa điểm:** Văn phòng AWS Việt Nam, Tòa nhà Bitexco Financial Tower, Quận 1, TP. Hồ Chí Minh
 

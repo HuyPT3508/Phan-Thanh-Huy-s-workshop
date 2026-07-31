@@ -11,7 +11,7 @@ During my internship, I participated in events to enhance my technical knowledge
 ### [Event 1: First Cloud AI Journey Kickoff & Meetup](4.1-Event1/)  
 &emsp;**Event Name:** First Cloud AI Journey Kickoff & Meetup  
 
-&emsp;**Date & Time:** 09:00, June 11, 2025  
+&emsp;**Date & Time:** 09:00, June 11, 2026  
 
 &emsp;**Location:** AWS Vietnam Office, Bitexco Financial Tower, District 1, Ho Chi Minh City  
 
